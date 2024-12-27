@@ -64,5 +64,6 @@ Previously, I spent a few years as a Data Analyst in manufacturing before moving
 <h2> 📚 Currently learning </h2>
  <p align="Left">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-0D3CFC?style=for-the-badge&logo=Kubernetes&logoColor=white">
+<img alt="Javascript" src="https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=Javascript&logoColor=black">
  </p>
 </p>
